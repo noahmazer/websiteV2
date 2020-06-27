@@ -1,0 +1,35 @@
+baseURL = "https://noahmazer.github.io/websiteV2/"
+languageCode = "en-us"
+title = "Noah Mazer's Website"
+copyright = "© {year}"
+theme = "codex"
+
+publishDir = "docs"
+
+# Optional params
+[params]
+  # Show Twitter icon linking to twitter.com/your-twitter-handle
+  twitter = "nowamazur" # omit @
+  # Show Github icon linking to github.com/your-github-handle
+  # github = "your-github-handle" # omit @
+
+# This disables Hugo's default syntax highlighting in favor
+# of prismjs. If you wish to use Hugo's default syntax highlighting
+# over prismjs, remove this. You will also need to remove the prismjs
+# vendor script in layouts/blog/single.html.
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+# Controls the navigation
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/"
+
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
