@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
+    <lastBuildDate>Mon, 22 Jun 2020 12:12:50 -0400</lastBuildDate>
     
 	<atom:link href="https://noahmazer.github.io/websiteV2/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>poems</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/poems/</link>
+      <pubDate>Mon, 22 Jun 2020 12:12:50 -0400</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/poems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>translation</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/translation/</link>
+      <pubDate>Mon, 22 Jun 2020 12:12:50 -0400</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/translation/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
