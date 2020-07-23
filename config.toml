@@ -1,6 +1,6 @@
 baseURL = "https://noahmazer.github.io/websiteV2/"
 languageCode = "en-us"
-title = "Noah Mazer's Website"
+title = "Noah Mazer"
 copyright = "© {year}"
 theme = "codex"
 
@@ -31,5 +31,11 @@ publishDir = "docs"
 [[menu.main]]
   identifier = "blog"
   name = "blog"
-  title = "Blog"
+  title = "blog"
   url = "/blog"
+
+[[menu.main]]
+  identifier = "cv"
+  name= "cv"
+  title = "CV"
+  url = "/CV"

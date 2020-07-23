@@ -1,4 +1,4 @@
 ---
-heading: "Noah Mazer Website"
-subheading: "This is the website for Noah Mazer"
+heading: "Noah Mazer"
+subheading: "writing, translating, editing in-to-from English and Spanish"
 ---

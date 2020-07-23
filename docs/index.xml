@@ -7,10 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 22 Jun 2020 12:12:50 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://noahmazer.github.io/websiteV2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LOS KGFC - La Novia de Mi Hermano</title>
+      <link>https://noahmazer.github.io/websiteV2/blog/los-kgfc-my-brothers-girlfriend/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/blog/los-kgfc-my-brothers-girlfriend/</guid>
+      <description>My Brother&amp;rsquo;s Girlfriend
+Surprising her while she dyes her hair
+is worse than walkng in when she&amp;rsquo;s in the shower.
+She wals between cars
+listening to Selena on her walkman.
+She has a jean jacket
+with cigarettes in its seven pockets.
+My black tees make her laugh
+and she takes me by the arm at parties.
+She walks between cars
+smiling for a camera only she can see.
+She says she can go three days with no sleep</description>
+    </item>
+    
+    <item>
+      <title>Roque Dalton - Poema XVI </title>
+      <link>https://noahmazer.github.io/websiteV2/blog/roque-dalton-poema-xvi/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/blog/roque-dalton-poema-xvi/</guid>
+      <description>Poema XVI
+The laws are made
+for the poor to follow. The laws are made by the rich to give a little order to exploitation. The poor are the only followers of the laws of history.
+When the poor make the laws the rich will be no more.</description>
+    </item>
+    
+    <item>
+      <title>The second post</title>
+      <link>https://noahmazer.github.io/websiteV2/blog/another-post/</link>
+      <pubDate>Sat, 27 Jun 2020 14:23:09 -0400</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/blog/another-post/</guid>
+      <description>Another test post, here you go!</description>
+    </item>
     
     <item>
       <title>Test Post</title>
@@ -18,7 +59,7 @@
       <pubDate>Mon, 22 Jun 2020 12:12:50 -0400</pubDate>
       
       <guid>https://noahmazer.github.io/websiteV2/blog/test-post-slug/</guid>
-      <description>Welcome to my test post This is a good test post, it is nice.</description>
+      <description>Welcome to my test post This is a good test post, it is nice. eat pant haha</description>
     </item>
     
   </channel>
