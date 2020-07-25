@@ -36,6 +36,6 @@ publishDir = "docs"
 
 [[menu.main]]
   identifier = "cv"
-  name= "cv"
+  name = "cv"
   title = "CV"
-  url = "/CV"
+  url = "/cv"
