@@ -1,7 +1,7 @@
 baseURL = "https://noahmazer.github.io/websiteV2/"
 languageCode = "en-us"
 title = "Noah Mazer"
-copyright = "© {year}"
+copyright = "© {2020}"
 theme = "codex"
 
 publishDir = "docs"
@@ -29,9 +29,9 @@ publishDir = "docs"
   url = "/"
 
 [[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "blog"
+  identifier = "tr.me"
+  name = "tr.me"
+  title = "tr.me"
   url = "/blog"
 
 [[menu.main]]

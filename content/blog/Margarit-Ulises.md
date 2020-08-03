@@ -1,5 +1,5 @@
 ---
-title: "Joan Margarit - Ulises en aguas de Ítaca"
+title: "Joan Margarit - Ulysses in Ithaca's Waters"
 date: 2020-07-14
 slug: "joan-margarit-ulises"
 description: "Ulises en aguas de Ítaca by Joan Margarit"
@@ -9,7 +9,7 @@ tags: ["Spain","Joan Margarit"]
 stylesheet: "post.css"
 ---
 
-**Ulysses in Ithaca's Waters**
+**[Ulises en aguas de Ítaca]**
 
 You arrive on the island: now you know  
 what fate is, what it means to live.  

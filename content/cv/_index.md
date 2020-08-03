@@ -30,6 +30,10 @@ Poetry Editor for [Volume 6, Issue 2](https://www.gandydancer.org/archives/vol-6
 
 
 ## Stuff I've Translated
+
+***ABLUCIONISTAS***  
+Aquellos fueron los días [FORTHCOMING]
+
 ***Alianza Agrícola***  
 [The Need for Driver's Licenses - Immigrant Farmworker Stories (VIDEO)](https://www.youtube.com/watch?v=NN08klTv7e0 "The Need for Driver's Licenses")   
 

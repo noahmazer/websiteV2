@@ -1,5 +1,5 @@
 ---
-title: "LOS KGFC - La Novia de Mi Hermano"
+title: "LOS KGFC - My Brother's Girlfriend"
 date: 2020-07-14
 slug: "Los-KGFC-My-Brothers-Girlfriend"
 description: "This is the test post description"
@@ -8,7 +8,7 @@ draft: false
 tags: ["Mexico", "Los KGFC", "2010s"]
 stylesheet: "post.css"
 ---
- ### **My Brother's Girlfriend**  
+**[La Novia de Mi Hermano]**  
 
 Surprising her while she dyes her hair  
 is worse than walkng in when she's in the shower.  
