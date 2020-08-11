@@ -44,7 +44,7 @@ Aquellos fueron los días [FORTHCOMING]
 [Adiós, Casilda!](https://intranslation.brooklynrail.org/spanish/adios-casilda/%22 "Adiós, Casilda!") 
 
 ***HOMINTERN***  
-[Pronunciamientos del habla tartamuda](https://intranslation.brooklynrail.org/spanish/adios-casilda/%22 "Pronunciamientos del habla tartamuda")  
+[Pronunciamientos del habla tartamuda](https://homintern.soy/posts/pronunciamientos.html "Pronunciamientos del habla tartamuda")  
 
 ***Paintbucket.page***  
 [El subcomandante besa bien?](https://paintbucket.page/big-ebooks-money/2019/11/01/el-subcomandante.html "El subcomandante besa bien?")
