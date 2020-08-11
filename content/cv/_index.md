@@ -1,4 +1,4 @@
-# CV
+# Publications
 
 ## Stuff I've Written
 
@@ -20,6 +20,9 @@
 ***Paintbucket.page***  
 [Treaty Day](https://paintbucket.page/live-ammo-round/2019/10/05/treaty-day.html "Treaty Day")  
 
+***woe.eroa***  
+[Four Poems](https://www.woeeroa.com/features/noah-mazer-4-poems "Four Poems")
+
 
 
 ## Stuff I've Edited
@@ -37,7 +40,7 @@ Aquellos fueron los días [FORTHCOMING]
 ***Alianza Agrícola***  
 [The Need for Driver's Licenses - Immigrant Farmworker Stories (VIDEO)](https://www.youtube.com/watch?v=NN08klTv7e0 "The Need for Driver's Licenses")   
 
-***Brooklyn Rail In Translation***  
+***The Brooklyn Rail In Translation***  
 [Adiós, Casilda!](https://intranslation.brooklynrail.org/spanish/adios-casilda/%22 "Adiós, Casilda!") 
 
 ***HOMINTERN***  

@@ -35,7 +35,7 @@ publishDir = "docs"
   url = "/blog"
 
 [[menu.main]]
-  identifier = "cv"
-  name = "cv"
-  title = "CV"
+  identifier = "published"
+  name = "published"
+  title = "published"
   url = "/cv"
