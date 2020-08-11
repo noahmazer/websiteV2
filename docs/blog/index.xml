@@ -1,65 +1,119 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Noah Mazer&#39;s Website</title>
+    <title>Blogs on Noah Mazer</title>
     <link>https://noahmazer.github.io/websiteV2/blog/</link>
-    <description>Recent content in Blogs on Noah Mazer&#39;s Website</description>
+    <description>Recent content in Blogs on Noah Mazer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {year}</copyright>
-    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>© {2020}</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://noahmazer.github.io/websiteV2/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>LOS KGFC - La Novia de Mi Hermano</title>
+      <title>Roberto Fernández Retamar - Stranger, Stranger Still</title>
+      <link>https://noahmazer.github.io/websiteV2/blog/retamar-extrano-mas-extrano/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/blog/retamar-extrano-mas-extrano/</guid>
+      <description>[Extraño, Más Extraño]
+In the dark I touch America’s scar
+I lay my burning hand
+on the volcanic and humid South
+from where we came bleeding
+alongside other tears. This severe
+beauty is the eye of my land,
+and its shadow of fire shakes me.
+Stay here, bare, don’t leave.
+Deserted, drunk
+I shiver in a strange country, stranger still.</description>
+    </item>
+    
+    <item>
+      <title>Ernesto Cardenal - Midnight Office</title>
+      <link>https://noahmazer.github.io/websiteV2/blog/ernesto-cardenal-oficio-nocturno/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/blog/ernesto-cardenal-oficio-nocturno/</guid>
+      <description>[Oficio Nocturno]
+2 AM. It is the hour of the Midnight Office, and in shadow
+the church seems full of demons.
+This is the hour of darkness and parties.
+The hour of my binges. And my past returns.
+&amp;ldquo;And my sin is always before me&amp;rdquo;
+And while we recite the psalms, my memories
+interfere with prayer like radios and jukeboxes.
+Old movie scenes come back, nightmares, hours
+alone in hotels, dances, journeys, kisses, bars.</description>
+    </item>
+    
+    <item>
+      <title>Efraín Huerta - TRANSIT</title>
+      <link>https://noahmazer.github.io/websiteV2/blog/efrain-huerta-transito/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/blog/efrain-huerta-transito/</guid>
+      <description>[TRÁNSITO]
+Homeric, a truck
+Went by
+With a house inside.
+No, Salvador, it wasn&amp;rsquo;t like that.
+It was
+Angelic, a poet
+Went by
+With a poem
+Inside</description>
+    </item>
+    
+    <item>
+      <title>Joan Margarit - Ulysses in Ithaca&#39;s Waters</title>
+      <link>https://noahmazer.github.io/websiteV2/blog/joan-margarit-ulises/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/blog/joan-margarit-ulises/</guid>
+      <description>[Ulises en aguas de Ítaca]
+You arrive on the island: now you know
+what fate is, what it means to live.
+Your bow will be dust on a shelf.
+Dust, the loom and the piece it weaves.
+The suitors, who camp in the courtyard,
+are shadows of Penelope’s dreams.
+You arrive on the island, while the sea
+beats against the rocks of the coast,
+as time does against the odyssey. No one</description>
+    </item>
+    
+    <item>
+      <title>LOS KGFC - My Brother&#39;s Girlfriend</title>
       <link>https://noahmazer.github.io/websiteV2/blog/los-kgfc-my-brothers-girlfriend/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://noahmazer.github.io/websiteV2/blog/los-kgfc-my-brothers-girlfriend/</guid>
-      <description>My Brother&amp;rsquo;s Girlfriend
+      <description>[La Novia de Mi Hermano]
 Surprising her while she dyes her hair
 is worse than walkng in when she&amp;rsquo;s in the shower.
-She wals between cars
+She walks between cars
 listening to Selena on her walkman.
 She has a jean jacket
 with cigarettes in its seven pockets.
 My black tees make her laugh
 and she takes me by the arm at parties.
 She walks between cars
-smiling for a camera only she can see.
-She says she can go three days with no sleep</description>
+smiling for a camera only she can see.</description>
     </item>
     
     <item>
-      <title>Roque Dalton - Poema XVI </title>
+      <title>Roque Dalton - Poem XVI </title>
       <link>https://noahmazer.github.io/websiteV2/blog/roque-dalton-poema-xvi/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://noahmazer.github.io/websiteV2/blog/roque-dalton-poema-xvi/</guid>
-      <description>Poema XVI
+      <description>[Poema XVI]
 The laws are made
 for the poor to follow. The laws are made by the rich to give a little order to exploitation. The poor are the only followers of the laws of history.
 When the poor make the laws the rich will be no more.</description>
-    </item>
-    
-    <item>
-      <title>The second post</title>
-      <link>https://noahmazer.github.io/websiteV2/blog/another-post/</link>
-      <pubDate>Sat, 27 Jun 2020 14:23:09 -0400</pubDate>
-      
-      <guid>https://noahmazer.github.io/websiteV2/blog/another-post/</guid>
-      <description>Another test post, here you go!</description>
-    </item>
-    
-    <item>
-      <title>Test Post</title>
-      <link>https://noahmazer.github.io/websiteV2/blog/test-post-slug/</link>
-      <pubDate>Mon, 22 Jun 2020 12:12:50 -0400</pubDate>
-      
-      <guid>https://noahmazer.github.io/websiteV2/blog/test-post-slug/</guid>
-      <description>Welcome to my test post This is a good test post, it is nice. eat pant haha</description>
     </item>
     
   </channel>

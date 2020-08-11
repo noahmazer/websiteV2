@@ -1,16 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Noah Mazer&#39;s Website</title>
+    <title>Tags on Noah Mazer</title>
     <link>https://noahmazer.github.io/websiteV2/tags/</link>
-    <description>Recent content in Tags on Noah Mazer&#39;s Website</description>
+    <description>Recent content in Tags on Noah Mazer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {year}</copyright>
-    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>© {2020}</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://noahmazer.github.io/websiteV2/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1960s</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/1960s/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/1960s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuba</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/cuba/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/cuba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Fernandez Retamar</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/roberto-fernandez-retamar/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/roberto-fernandez-retamar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ernesto Cardenal</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/ernesto-cardenal/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/ernesto-cardenal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicaragua</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/nicaragua/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/nicaragua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efrain Huerta</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/efrain-huerta/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/efrain-huerta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mexico</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/mexico/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/mexico/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>1970s</title>
@@ -40,20 +103,20 @@
     </item>
     
     <item>
+      <title>Joan Margarit</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/joan-margarit/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/joan-margarit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Los KGFC</title>
       <link>https://noahmazer.github.io/websiteV2/tags/los-kgfc/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://noahmazer.github.io/websiteV2/tags/los-kgfc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mexico</title>
-      <link>https://noahmazer.github.io/websiteV2/tags/mexico/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://noahmazer.github.io/websiteV2/tags/mexico/</guid>
       <description></description>
     </item>
     
@@ -67,38 +130,11 @@
     </item>
     
     <item>
-      <title>poem</title>
-      <link>https://noahmazer.github.io/websiteV2/tags/poem/</link>
-      <pubDate>Sat, 27 Jun 2020 14:23:09 -0400</pubDate>
+      <title>Spain</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/spain/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://noahmazer.github.io/websiteV2/tags/poem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random</title>
-      <link>https://noahmazer.github.io/websiteV2/tags/random/</link>
-      <pubDate>Sat, 27 Jun 2020 14:23:09 -0400</pubDate>
-      
-      <guid>https://noahmazer.github.io/websiteV2/tags/random/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>poems</title>
-      <link>https://noahmazer.github.io/websiteV2/tags/poems/</link>
-      <pubDate>Mon, 22 Jun 2020 12:12:50 -0400</pubDate>
-      
-      <guid>https://noahmazer.github.io/websiteV2/tags/poems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>translation</title>
-      <link>https://noahmazer.github.io/websiteV2/tags/translation/</link>
-      <pubDate>Mon, 22 Jun 2020 12:12:50 -0400</pubDate>
-      
-      <guid>https://noahmazer.github.io/websiteV2/tags/translation/</guid>
+      <guid>https://noahmazer.github.io/websiteV2/tags/spain/</guid>
       <description></description>
     </item>
     
