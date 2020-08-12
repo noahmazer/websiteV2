@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://noahmazer.github.io/websiteV2/blog/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://noahmazer.github.io/websiteV2/tags/cuba/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url>
@@ -34,6 +29,11 @@
   
   <url>
     <loc>https://noahmazer.github.io/websiteV2/tags/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noahmazer.github.io/websiteV2/blog/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,12 +118,11 @@
   </url>
   
   <url>
-    <loc>https://noahmazer.github.io/websiteV2/cv/</loc>
-    <priority>0</priority>
+    <loc>https://noahmazer.github.io/websiteV2/categories/</loc>
   </url>
   
   <url>
-    <loc>https://noahmazer.github.io/websiteV2/categories/</loc>
+    <loc>https://noahmazer.github.io/websiteV2/cv/</loc>
   </url>
   
 </urlset>
