@@ -2,8 +2,8 @@
 Title: "Translations"
 ---
 
-# Translations
+# tr.me blog
 
-Info about these translations
+Poems translated by me beyond the reach of Big Litmag and the spectral lawmen of intellectual property
 
 ##
