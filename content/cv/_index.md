@@ -1,3 +1,7 @@
+---
+title: "Publications"
+---
+
 # Publications
 
 ## Poetry
