@@ -10,7 +10,7 @@
 ***woe.eroa***  
 [Four Poems](https://www.woeeroa.com/features/noah-mazer-4-poems "Four Poems")  
 
-  
+##
 ---
 
 ## Other Writing
@@ -26,13 +26,15 @@
 ***Gandy Dancer***  
 [Interview with Ófeigur Sigurðsson and Lytton Smith](https://www.gandydancer.org/volume-7-interview/ "Interview with Ófeigur Sigurðsson and Lytton Smith")  
 
+##
 ---
 
 ## Stuff I've Edited
 ***Gandy Dancer***  
 Managing Editor for [Volume 7](https://www.gandydancer.org/archives/vol-7/ "Volume 7") & the Best Of Gandy Dancer (2012-2018)  
 Poetry Editor for [Volume 6, Issue 2](https://www.gandydancer.org/archives/vol-6-no-2-2/ "Volume 6, Issue 2")  
-  
+
+##
 ---
 
 ## Literary Translations
@@ -51,6 +53,7 @@ Aquellos fueron los días [FORTHCOMING]
 ***Vagabond City***  
 [Crimen de un corazón que no recuerdo](https://vagabondcitylit.com/2020/01/13/manuel-tzoc-bucap-translated-by-noah-mazer/ "Crimen de un corazón que no recuerdo")
 
+##
 ---
 
 ## Other Translations
