@@ -13,6 +13,7 @@ publishDir = "docs"
   # Show Twitter icon linking to twitter.com/your-twitter-handle
   twitter = "https://twitter.com/nowamazur" # omit @
   email = "mailto:NMazer97@gmail.com"
+  instagram = "https://www.instagram.com/nowamazur/"
   # Show Github icon linking to github.com/your-github-handle
   # github = "your-github-handle" # omit @
   iconTitles = ["Twitter"]

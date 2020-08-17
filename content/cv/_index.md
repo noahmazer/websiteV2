@@ -32,30 +32,21 @@ title: "Publications"
 
 ##
 ---
-
-## Stuff I've Edited
-***Gandy Dancer***  
-Managing Editor for [Volume 7](https://www.gandydancer.org/archives/vol-7/ "Volume 7") & the Best Of Gandy Dancer (2012-2018)  
-Poetry Editor for [Volume 6, Issue 2](https://www.gandydancer.org/archives/vol-6-no-2-2/ "Volume 6, Issue 2")  
-
-##
----
-
 ## Literary Translations
 ***ABLUCIONISTAS***  
-Aquellos fueron los días [FORTHCOMING]
+Martín Rangel - [Aquellos fueron los días/Those were the days](https://ablucionistas.com/aquellos-fueron-los-dias-those-were-the-days-%c2%b7eng-esp%c2%b7-martin-rangel/ "Aquellos fueron los días/Those were the days")
 
 ***The Brooklyn Rail In Translation***  
-[Adiós, Casilda!](https://intranslation.brooklynrail.org/spanish/adios-casilda/%22 "Adiós, Casilda!") 
+Iván Palacios Ocaña - [Adiós, Casilda!](https://intranslation.brooklynrail.org/spanish/adios-casilda/%22 "Adiós, Casilda!") 
 
 ***HOMINTERN***  
-[Pronunciamientos del habla tartamuda](https://homintern.soy/posts/pronunciamientos.html "Pronunciamientos del habla tartamuda")  
+Manuel Tzoc Bucup - [Pronunciamientos del habla tartamuda](https://homintern.soy/posts/pronunciamientos.html "Pronunciamientos del habla tartamuda")  
 
 ***Paintbucket.page***  
-[El subcomandante besa bien?](https://paintbucket.page/big-ebooks-money/2019/11/01/el-subcomandante.html "El subcomandante besa bien?")
+Los KFGC - [El subcomandante besa bien?](https://paintbucket.page/big-ebooks-money/2019/11/01/el-subcomandante.html "El subcomandante besa bien?")
 
 ***Vagabond City***  
-[Crimen de un corazón que no recuerdo](https://vagabondcitylit.com/2020/01/13/manuel-tzoc-bucap-translated-by-noah-mazer/ "Crimen de un corazón que no recuerdo")
+Manuel Tzoc Bucup - [Crimen de un corazón que no recuerdo](https://vagabondcitylit.com/2020/01/13/manuel-tzoc-bucap-translated-by-noah-mazer/ "Crimen de un corazón que no recuerdo")
 
 ##
 ---
@@ -69,3 +60,11 @@ Aquellos fueron los días [FORTHCOMING]
 
 ***Sexto Piso Editorial***  
 Times of Union [FORTHCOMING]
+
+##
+---
+
+## Stuff I've Edited
+***Gandy Dancer***  
+Managing Editor for [Volume 7](https://www.gandydancer.org/archives/vol-7/ "Volume 7") & the Best Of Gandy Dancer (2012-2018)  
+Poetry Editor for [Volume 6, Issue 2](https://www.gandydancer.org/archives/vol-6-no-2-2/ "Volume 6, Issue 2")  
