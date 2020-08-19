@@ -6,11 +6,38 @@
     <description>Recent content in Tags on Noah Mazer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {2020}</copyright>
-    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://noahmazer.github.io/websiteV2/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1950s</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/1950s/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/1950s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efrain Huerta</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/efrain-huerta/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/efrain-huerta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mexico</title>
+      <link>https://noahmazer.github.io/websiteV2/tags/mexico/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.github.io/websiteV2/tags/mexico/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>1960s</title>
@@ -54,24 +81,6 @@
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://noahmazer.github.io/websiteV2/tags/nicaragua/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efrain Huerta</title>
-      <link>https://noahmazer.github.io/websiteV2/tags/efrain-huerta/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://noahmazer.github.io/websiteV2/tags/efrain-huerta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mexico</title>
-      <link>https://noahmazer.github.io/websiteV2/tags/mexico/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://noahmazer.github.io/websiteV2/tags/mexico/</guid>
       <description></description>
     </item>
     

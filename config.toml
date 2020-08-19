@@ -1,7 +1,7 @@
 baseURL = "https://noahmazer.github.io/websiteV2/"
 languageCode = "en-us"
 title = "Noah Mazer"
-copyright = "© {2020}"
+copyright = "© {year}"
 theme = "codex"
 
 publishDir = "docs"
