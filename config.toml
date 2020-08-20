@@ -10,13 +10,10 @@ googleAnalytics = "UA-80823862-3"
 
 # Optional params
 [params]
-  # Show Twitter icon linking to twitter.com/your-twitter-handle
-  twitter = "https://twitter.com/nowamazur" # omit @
+  twitter = "https://twitter.com/nowamazur"
   email = "mailto:noahmazer@gmail.com"
   instagram = "https://www.instagram.com/nowamazur/"
-  # Show Github icon linking to github.com/your-github-handle
-  # github = "your-github-handle" # omit @
-  iconTitles = ["Twitter"]
+
   blogUrl = "/blog"
 
 # This disables Hugo's default syntax highlighting in favor
