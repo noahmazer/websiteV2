@@ -6,7 +6,7 @@ theme = "codex"
 
 publishDir = "docs"
 
-
+googleAnalytics = "UA-80823862-3"
 
 # Optional params
 [params]
