@@ -5,7 +5,7 @@ slug: "retamar-extrano-mas-extrano"
 description: "Extraño, Más Extraño by Roberto Fernández Retamar"
 keywords: ["Retamar"]
 draft: false
-tags: ["Cuba","Roberto Fernandez Retamar", "1960s"]
+tags: ["Cuba","Roberto-Fernandez Retamar", "1960s"]
 stylesheet: "post.css"
 ---
 

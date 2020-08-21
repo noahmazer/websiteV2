@@ -5,7 +5,7 @@ slug: "ernesto-cardenal-oficio-nocturno"
 description: "Oficio Nocuturno by Ernesto Cardenal"
 keywords: ["Cardenal"]
 draft: false
-tags: ["Nicaragua","Ernesto Cardenal", "1960s"]
+tags: ["Nicaragua","Ernesto-Cardenal", "1960s"]
 stylesheet: "post.css"
 ---
 
