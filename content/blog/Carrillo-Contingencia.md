@@ -3,7 +3,7 @@ title: "Román Carrillo - In Case of Emergency"
 date: 2020-08-20
 slug: "roman-carillo-contingencia"
 description: "Contingencia by Román Carrillo"
-keywords: ["Carillo"]
+keywords: ["Carrillo"]
 draft: false
 tags: ["Mexico","Roman Carrillo", "2020s"]
 stylesheet: "post.css"
