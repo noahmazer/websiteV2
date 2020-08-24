@@ -5,7 +5,7 @@ slug: "roque-dalton-poema-xvi"
 description: "Poema XVI by Roque Dalton"
 keywords: ["Dalton"]
 draft: false
-tags: ["El Salvador","Roque Dalton", "1970s"]
+tags: ["El-Salvador","Roque-Dalton", "1970s"]
 stylesheet: "post.css"
 ---
 

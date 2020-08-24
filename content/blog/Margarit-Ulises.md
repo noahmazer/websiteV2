@@ -5,7 +5,7 @@ slug: "joan-margarit-ulises"
 description: "Ulises en aguas de Ítaca by Joan Margarit"
 keywords: ["Margarit"]
 draft: false
-tags: ["Spain","Joan Margarit"]
+tags: ["Spain","Joan-Margarit"]
 stylesheet: "post.css"
 ---
 

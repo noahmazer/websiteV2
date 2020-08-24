@@ -5,7 +5,7 @@ slug: "efrain-huerta-transito"
 description: "TRÁNSITO by Efraín Huerta"
 keywords: ["Huerta"]
 draft: false
-tags: ["Mexico","Efrain Huerta"]
+tags: ["Mexico","Efrain-Huerta"]
 stylesheet: "post.css"
 ---
 

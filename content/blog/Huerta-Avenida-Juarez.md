@@ -5,7 +5,7 @@ slug: "efrain-huerta-avenida-juarez"
 description: "Avenida Juárez by Efraín Huerta"
 keywords: ["Huerta"]
 draft: false
-tags: ["Mexico","Efrain Huerta", "1950s"]
+tags: ["Mexico","Efrain-Huerta", "1950s"]
 stylesheet: "post.css"
 ---
 You lose days, strength, and love for the nation,  

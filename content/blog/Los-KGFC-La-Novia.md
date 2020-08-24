@@ -5,7 +5,7 @@ slug: "Los-KGFC-My-Brothers-Girlfriend"
 description: "This is the test post description"
 keywords: ["Los KGFC"]
 draft: false
-tags: ["Mexico", "Los KGFC", "2010s"]
+tags: ["Mexico", "Los-KGFC", "2010s"]
 stylesheet: "post.css"
 ---
 **[La Novia de Mi Hermano]**  
