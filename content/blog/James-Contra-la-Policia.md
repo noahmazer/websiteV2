@@ -1,4 +1,4 @@
-title: "Migeul James - AGAINST THE POLICE"
+title: "Miguel James - AGAINST THE POLICE"
 date: 2020-08-24
 slug: "miguel-james-contra-la-policia"
 description: "Contra la Policia by Miguel James"
