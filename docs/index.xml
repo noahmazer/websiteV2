@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://noahmazer.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Miguel James - AGAINST THE POLICE</title>
+      <link>https://noahmazer.com/blog/miguel-james-contra-la-policia/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.com/blog/miguel-james-contra-la-policia/</guid>
+      <description>[CONTRA LA POLICIA]
+All of my Work is against the police.
+If I write a Love poem it&amp;rsquo;s against the police.
+And if I sing to the nakedness of bodies I sing against the police.
+And if I make this Earth a metaphor I make a metaphor against the police.
+If I talk crazy in this poem I&amp;rsquo;m talking against the police.
+And if I manage to create a poem it&amp;rsquo;s against the police.</description>
+    </item>
     
     <item>
       <title>Román Carrillo - In Case of Emergency</title>
@@ -148,19 +163,6 @@ smiling for a camera only she can see.</description>
 The laws are made
 for the poor to follow. The laws are made by the rich to give a little order to exploitation. The poor are the only followers of the laws of history.
 When the poor make the laws the rich will be no more.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://noahmazer.com/blog/james-contra-la-policia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://noahmazer.com/blog/james-contra-la-policia/</guid>
-      <description>title: &amp;ldquo;Migeul James - AGAINST THE POLICE&amp;rdquo; date: 2020-08-24 slug: &amp;ldquo;miguel-james-contra-la-policia&amp;rdquo; description: &amp;ldquo;Contra la Policia by Miguel James&amp;rdquo; keywords: [&amp;ldquo;James&amp;rdquo;] draft: false tags: [&amp;ldquo;Venezuela&amp;rdquo;,&amp;ldquo;Miguel-James&amp;rdquo;] stylesheet: &amp;ldquo;post.css&amp;rdquo; [CONTRA LA POLICIA]
-All of my Work is against the police.
-If I write a Love poem it&amp;rsquo;s against the police.
-And if I sing to the nakedness of bodies I sing against the police.
-And if I make this Earth a metaphor I make a metaphor against the police.</description>
     </item>
     
   </channel>

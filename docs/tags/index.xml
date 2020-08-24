@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://noahmazer.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Miguel-James</title>
+      <link>https://noahmazer.com/tags/miguel-james/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.com/tags/miguel-james/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Venezuela</title>
+      <link>https://noahmazer.com/tags/venezuela/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.com/tags/venezuela/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2020s</title>
