@@ -2,14 +2,14 @@
 title: "Miguel James - AGAINST THE POLICE"
 date: 2020-08-24
 slug: "miguel-james-contra-la-policia"
-description: "Contra la Policia by Miguel James"
+description: "Contra la Policía by Miguel James"
 keywords: ["James"]
 draft: false
 tags: ["Venezuela","Miguel-James"]
 stylesheet: "post.css"
 ---
 
-**[CONTRA LA POLICIA]**
+**[CONTRA LA POLICÍA]**
 
 All of my Work is against the police.  
 If I write a Love poem it's against the police.  
