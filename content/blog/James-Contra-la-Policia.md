@@ -18,7 +18,7 @@ And if I make this Earth a metaphor I make a metaphor against the police.
 If I talk crazy in this poem I'm talking against the police.  
 And if I manage to create a poem it's against the police.  
 I haven't written a word, a verse, a stanza that's not against the police.  
-All of my prose is against the polce.  
+All of my prose is against the police.  
 All of my Works  
 including this poem  
 All of my Work  
