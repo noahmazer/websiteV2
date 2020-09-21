@@ -9,7 +9,7 @@ tags: ["Mexico","Martin-Rangel", "2020s"]
 stylesheet: "post.css"
 ---
 
-**[COSAS QUE ESCRIBIRÍA SI EL 🌎 FUERA A ACABAR]**
+**[COSAS QUE ESCRIBIRÍA SI EL 🌎 SE FUERA A ACABAR]**
 
 my aunt wishes i’d see a therapist  
 and i’m scared to see my aunt  
