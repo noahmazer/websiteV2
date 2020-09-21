@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://noahmazer.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020s</title>
+      <link>https://noahmazer.com/tags/2020s/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.com/tags/2020s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin-Rangel</title>
+      <link>https://noahmazer.com/tags/martin-rangel/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.com/tags/martin-rangel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mexico</title>
+      <link>https://noahmazer.com/tags/mexico/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.com/tags/mexico/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Miguel-James</title>
@@ -27,24 +54,6 @@
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://noahmazer.com/tags/venezuela/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2020s</title>
-      <link>https://noahmazer.com/tags/2020s/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://noahmazer.com/tags/2020s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mexico</title>
-      <link>https://noahmazer.com/tags/mexico/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://noahmazer.com/tags/mexico/</guid>
       <description></description>
     </item>
     
