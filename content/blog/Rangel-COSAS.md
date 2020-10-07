@@ -2,7 +2,7 @@
 title: "Martín Rangel - THINGS I'D WRITE IF THE 🌎 WERE ENDING"
 date: 2020-09-20
 slug: "martin-rangel-cosas-que-escribiria-si-el-mundo"
-description: "Poema para una esquina by Iván Palacios Ocaña"
+description: "COSAS QUE ESCRIBIRÍA SI EL 🌎 SE FUERA A ACABAR by Martín Rangel"
 keywords: ["Rangel"]
 draft: false
 tags: ["Mexico","Martin-Rangel", "2020s"]
