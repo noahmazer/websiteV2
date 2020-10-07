@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://noahmazer.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1970s</title>
+      <link>https://noahmazer.com/tags/1970s/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.com/tags/1970s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuba</title>
+      <link>https://noahmazer.com/tags/cuba/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.com/tags/cuba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis-Rogelio-Nogueras</title>
+      <link>https://noahmazer.com/tags/luis-rogelio-nogueras/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.com/tags/luis-rogelio-nogueras/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2010s</title>
@@ -112,15 +139,6 @@
     </item>
     
     <item>
-      <title>Cuba</title>
-      <link>https://noahmazer.com/tags/cuba/</link>
-      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://noahmazer.com/tags/cuba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Roberto-Fernandez-Retamar</title>
       <link>https://noahmazer.com/tags/roberto-fernandez-retamar/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
@@ -144,15 +162,6 @@
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://noahmazer.com/tags/nicaragua/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1970s</title>
-      <link>https://noahmazer.com/tags/1970s/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://noahmazer.com/tags/1970s/</guid>
       <description></description>
     </item>
     
