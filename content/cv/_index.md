@@ -41,6 +41,7 @@ Iván Palacios Ocaña - [Adiós, Casilda!](https://intranslation.brooklynrail.or
 
 ***HOMINTERN***  
 Manuel Tzoc Bucup - [Pronunciamientos del habla tartamuda](https://homintern.soy/posts/pronunciamientos.html "Pronunciamientos del habla tartamuda")  
+Efraín Huerta - [Los Sovieticos](https://homintern.soy/issues/10-10-20/thesoviets.html "Los Sovieticos")  
 
 ***Paintbucket.page***  
 Los KFGC - [El subcomandante besa bien?](https://paintbucket.page/big-ebooks-money/2019/11/01/el-subcomandante.html "El subcomandante besa bien?")
