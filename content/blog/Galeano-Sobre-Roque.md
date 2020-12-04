@@ -5,7 +5,7 @@ slug: "sobre-roque-dalton"
 description: "Sobre Roque Dalton by Eduardo Galeano"
 keywords: ["Galeano"]
 draft: false
-tags: ["Urugay","Eduardo-Galeano", "1970s"]
+tags: ["Uruguay","Eduardo-Galeano", "1970s"]
 stylesheet: "post.css"
 ---
 **[Sobre Roque Dalton]**
