@@ -8,7 +8,7 @@ draft: false
 tags: ["Nicaragua","Ernesto-Cardenal", "1960s"]
 stylesheet: "post.css"
 ---
-## **[Kayanerenkowa]**
+**[Kayanerenkowa]**
 
 Sept. Oct.   
 in these months are the migrations.  
@@ -22,7 +22,7 @@ here they call him the pato-e-chancho.
 Yes, like the planes.  
 The plane from New York above these solitudes.   
 Maybe watching a color movie.  
-THE PERFECT FURLOUGH		***with Tony Curtis and Janet Leigh***   
+THE PERFECT FURLOUGH		\*\*\*with Tony Curtis and Janet Leigh***   
 above Solentiname.  
 And flying  
 in a V  
@@ -160,61 +160,61 @@ northward like a compass needle
 carrying spring!  
   
 Deganawida said  
-in the first speech of those United Nations: 
-"The Council Fire of the Confederacy of Nations...! 
-"But the fires of the nations will stay lit 
-"and that of each clan 
-"and that of each family and the womens' fire and the mens' fire 
-"AND THEY WILL NOT GO OUT...!
-And the League of Nations was established with songs
-delegations circled around the fire
-the Mohawk and the Senecas east of the fire 
-the Oneida and the Cayuga west of the fire
-the onondagas north of the fire 
-all of them singing the same song together
+in the first speech of those United Nations:   
+"The Council Fire of the Confederacy of Nations...!   
+"But the fires of the nations will stay lit   
+"and that of each clan   
+"and that of each family and the womens' fire and the mens' fire   
+"AND THEY WILL NOT GO OUT...!  
+And the League of Nations was established with songs  
+delegations circled around the fire  
+the Mohawk and the Seneca east of the fire   
+the Oneida and the Cayuga west of the fire  
+the Onondaga north of the fire   
+all of them singing the same song together  
 
-And on closing the First Session of the United Nations: 
-“My work is done. I 
-"will enter the earth. From there 
-"I will hear how men conduct themselves
-"in the Longhouse I gave them
-"If one day the Great peace fails
-"If one day it fails
-"pronounce my name in the depth of the forest 
-"In solitude. And I shall return. 
-They buried the hatchets the arrows
-We have cleaned the earth 
-of these things made by a Bad Mind" 
-And after the dream of a greater adventure   
-the reunion around a fire   
-of all the nations of the earth   
-the nations of "all the earth's forests"   
+And on closing the First Session of the United Nations:   
+“My work is done. I   
+"will enter the earth. From there   
+"I will hear how men conduct themselves  
+"in the Longhouse I gave them  
+"If one day the Great peace fails  
+"If one day it fails  
+"pronounce my name in the depth of the forest   
+"In solitude. And I shall return.   
+They buried the hatchets the arrows  
+We have cleaned the earth   
+of these things made by a Bad Mind"   
+And after the dream of a greater adventure     
+the reunion around a fire     
+of all the nations of the earth     
+the nations of "all the earth's forests"     
 
-A beaver on the plate. With no knife
-So that no one can be hurt
-there will be no spilling of blood 
-Later, for many years, the hope 
-that the French would join the League.   
-"If you love our souls as you say,   
-love also our bodies.   
-We shall all be one single nation." 
-So that their good intentions would show   
-they gave themselves up unarmed to the French.   
-With women and children and elders. NOT   
-as hostages. But   
-"to make all the earth one single nation"   
-and the march towards Quebec -weighed down with shells-   
-but on the road the Algonquians attacked them.   
-the French traded with the Huron...   
-Dialogue with the Huron was blocked.
-The treaties with the Huron, annulled forever.
+A beaver on the plate. With no knife  
+So that no one can be hurt  
+there will be no spilling of blood   
+Later, for many years, the hope   
+that the French would join the League.     
+"If you love our souls as you say,     
+love also our bodies.     
+We shall all be one single nation."   
+So that their good intentions would show     
+they gave themselves up unarmed to the French.     
+With women and children and elders. NOT     
+as hostages. But     
+"to make all the earth one single nation"     
+and the march towards Quebec -weighed down with shells-     
+but on the road the Algonquians attacked them.     
+the French traded with the Huron...     
+Dialogue with the Huron was blocked.  
+The treaties with the Huron, annulled forever.  
 
-Economic reasons... that fur trade... 
-Because the Iroquois sad: "one single territory"   
-"Let us make one single people and one single territory"  
- and the French traded with the Hurons.   
-The French gave cannons to the Susquehannocks.   
-We shall suppress the flows of the river   
+Economic reasons... that fur trade...   
+Because the Iroquois sad: "one single territory"     
+"Let us make one single people and one single territory"    
+and the French traded with the Hurons.     
+The French gave cannons to the Susquehannocks.     
+We shall suppress the flows of the river     
 And they sent 3 peace canoes to the French. 
 
 Those canoes, stood up before the fort  
@@ -272,40 +272,38 @@ and passing the highways on the outskirts, motels
 gas stations and more neon, HAM & EGGS in the night  
  behind the big factories, you come to the reservation   
 a little valley, where that Iroquois said   
-       next to the old Ford which doesn't run   
+       next to the old Ford that doesn't run   
 "we shall rise up again   
 and the world shall listen to us."
 
+A man leapt into the middle of the street with his arms open:  
+STOP!!! 
+and they riddled him.  
+A different Somoza will be president.  
+You told us to call out to you in our solitude.  
+And I’m here in Solentiname!  
+Deganawida! Deganawida!  
 
+Rumor as if from a portable radio on its way here  
+no portables come here:  
+the plane  
+from the Nation of the 13 Fires...  
+The flight to Panama.  
+Our friends aren’t many, and they’re far away.  
+The news is bad from everywhere.  
+If you are sad as I am now  
+I shall console you with my wampum, o my old  
+Underwood.  
+With shells. With these keys.  
+Not teletypes.  
+And these words in my hands shall be true.  
+It is the hour of the mosquitoes on Solentiname.  
+And of the sad bird that sings Jodido.  
+The last cormorant has gone.  
+Will the lights be on yet  
+at the United Nations?  
+DEGANAWIDA! DEGANAWIDA!  
 
-A man leapt into the middle of the street with his arms open:
-STOP!!!
-and they riddled him.
-A different Somoza will be president.
-You told us to call out to you in our solitude.
-And I’m here in Solentiname!
-Deganawida! Deganawida!
-
-Rumor as if from a portable radio on its way here
-no portables come here:
-the plane
-from the Nation of the 13 Fires...
-The flight to Panama.
-Our friends aren’t many, and they’re far away.
-The news is bad from everywhere.
-If you are sad as I am now
-I shall console you with my wampum, o my old
-Underwood.
-With shells. With these keys.
-Not teletypes.
-And these words in my hands shall be true.
-It is the hour of the mosquitoes on Solentiname.
-And of the sad bird that sings Jodido.
-The last cormorant has gone.
-Will the lights be on yet
-at the United Nations?
-DEGANAWIDA! DEGANAWIDA!
-
-And where are the jets going?
-Are they going
+And where are the jets going? 
+Are they going   
 to Vietnam?
