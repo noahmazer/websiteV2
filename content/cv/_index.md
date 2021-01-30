@@ -33,6 +33,9 @@ title: "Publications"
 ##
 ---
 ## Literary Translations
+***Asymptote Journal***  
+Iván Palacios Ocaña - [from Little Humilliations!](https://www.asymptotejournal.com/poetry/ivan-palacios-ocana-little-humiliations/ "from Little Humilliations!")
+
 ***ABLUCIONISTAS***  
 Martín Rangel - [Aquellos fueron los días/Those were the days](https://ablucionistas.com/aquellos-fueron-los-dias-those-were-the-days-%c2%b7eng-esp%c2%b7-martin-rangel/ "Aquellos fueron los días/Those were the days")
 
