@@ -4,7 +4,7 @@ date: 2020-08-10
 slug: "retamar-extrano-mas-extrano"
 description: "Extraño, Más Extraño by Roberto Fernández Retamar"
 keywords: ["Retamar"]
-draft: false
+draft: true
 tags: ["Cuba","Roberto-Fernandez-Retamar", "1960s"]
 stylesheet: "post.css"
 ---

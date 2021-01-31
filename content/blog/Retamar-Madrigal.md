@@ -1,11 +1,11 @@
 ---
-title: "Roque Dalton - Madrigal"
+title: "Roberto Fernández Retamar - Madrigal"
 date: 2021-01-30
-slug: "roque-dalton-madrigal"
-description: "Madrigal by Roque Dalton"
-keywords: ["Dalton"]
+slug: "fernandez-retamar-madrigal"
+description: "Madrigal by Roberto Fernández Retamar"
+keywords: ["Fernández Retamar"]
 draft: false
-tags: ["El-Salvador","Roque-Dalton", "1960s"]
+tags: ["Cuba","Roberto-Fernandez-Retamar", "1970s"]
 stylesheet: "post.css"
 ---
 ### **[Madrigal]**
