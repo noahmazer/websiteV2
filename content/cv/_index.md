@@ -49,6 +49,9 @@ Efraín Huerta - [Los Sovieticos](https://homintern.soy/issues/10-10-20/thesovie
 ***Paintbucket.page***  
 Los KFGC - [El subcomandante besa bien?](https://paintbucket.page/big-ebooks-money/2019/11/01/el-subcomandante.html "El subcomandante besa bien?")
 
+***UC Davis***  
+Verónica Díaz-Muñiz - [OJOXOJO](https://arts.ucdavis.edu/seasonal-event/ojoxojo-eye-eye "OJOXOJO")
+
 ***Vagabond City***  
 Manuel Tzoc Bucup - [Crimen de un corazón que no recuerdo](https://vagabondcitylit.com/2020/01/13/manuel-tzoc-bucap-translated-by-noah-mazer/ "Crimen de un corazón que no recuerdo")
 
@@ -61,9 +64,6 @@ Manuel Tzoc Bucup - [Crimen de un corazón que no recuerdo](https://vagabondcity
 ***Alianza Agrícola***  
 [The Need for Driver's Licenses - Immigrant Farmworker Stories (VIDEO)](https://www.youtube.com/watch?v=NN08klTv7e0 "The Need for Driver's Licenses")   
 
-
-***Sexto Piso Editorial***  
-Times of Union [FORTHCOMING]
 
 ##
 ---
