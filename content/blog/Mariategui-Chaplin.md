@@ -5,7 +5,7 @@ slug: "mariategui-chaplin"
 description: "Outline of an Explanation of Chaplin by José Carlos Mariátegui"
 keywords: ["Mariátegui"]
 draft: false
-tags: ["Peru","José-Carlos-Mariátegui", "1920s"]
+tags: ["Peru","Jose-Carlos-Mariategui", "1920s"]
 stylesheet: "post.css"
 ---
 The Chaplin issue seems to me, within any explanation of our times, no less considerable than the Lloyd George issue or the MacDonald issue (if we look for equivalents in Great Britain alone). Many have found Henri Poulaille’s assertion that *The Gold Rush* (*En pos del oro* and *La quimera del oro* are barely approximate translations of this title) is the greatest contemporary novel to be excessive. But —always situating Chaplin in his country— I think that, in any case, the human resonance of *The Gold Rush* far outdoes Mr. H. G. Wells’s *The Outline of History* and the theater of Bernard Shaw. This is a fact that Wells and Shaw would surely be the first to recognize. (Shaw exaggerating it enormously and Wells attributing it somewhat melancholically to the shortcomings of secondary education).
