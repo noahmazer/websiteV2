@@ -9,7 +9,7 @@ tags: ["El-Salvador","Roque-Dalton", "1970s"]
 stylesheet: "post.css"
 ---
 
-**[Poema XVI]**
+## **[Poema XVI]**
 
 The laws are made   
 for the poor to follow.    

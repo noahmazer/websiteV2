@@ -7,7 +7,10 @@ keywords: ["Mariátegui"]
 draft: false
 tags: ["Peru","Jose-Carlos-Mariategui", "1920s"]
 stylesheet: "post.css"
----
+---  
+
+## **[Esquema de una explicación de Chaplin]**
+
 The Chaplin issue seems to me, within any explanation of our times, no less considerable than the Lloyd George issue or the MacDonald issue (if we look for equivalents in Great Britain alone). Many have found Henri Poulaille’s assertion that *The Gold Rush* (*En pos del oro* and *La quimera del oro* are barely approximate translations of this title) is the greatest contemporary novel to be excessive. But —always situating Chaplin in his country— I think that, in any case, the human resonance of *The Gold Rush* far outdoes Mr. H. G. Wells’s *The Outline of History* and the theater of Bernard Shaw. This is a fact that Wells and Shaw would surely be the first to recognize. (Shaw exaggerating it enormously and Wells attributing it somewhat melancholically to the shortcomings of secondary education).
 
 For his works, Chaplin’s imagination selects subjects no less than the return of Methuselah or the vindication of Joan of Arc: Gold, the Circus. And furthermore, he executes his ideas with the greatest artistic efficacy: the regulation intellectualism of the guardians of aesthetic order would be scandalized by this proposition. Chaplin’s success is explained, according to his mental formulas, in the same way as that of Alexandre Dumas or Eugène Sue. But, without recurring to Bontempelli’s reasoning on novels of intrigue, nor endorsing his reevaluation of Alexandre Dumas, this simplistic judgement is disqualified as soon as we remember that Chaplin’s art is enjoyed with the same delight by doctors and illiterates, by literati and boxers. When we speak of Chaplin’s universality we are not appealing to the proof of his popularity. Chaplin has every vote: that of the majority and of the minorities. His fame is at once rigorously aristocratic and democratic. Chaplin is a true kind of elite, for all of those who do not forget that elite means **chosen**.

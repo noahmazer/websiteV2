@@ -7,7 +7,7 @@ title: "Publications"
 ## Poetry
 
 ***Asymptote Journal***  
-Iván Palacios Ocaña - [from Little Humilliations!](https://www.asymptotejournal.com/poetry/ivan-palacios-ocana-little-humiliations/ "from Little Humilliations!")
+Iván Palacios Ocaña - [from Little Humilliations!](https://www.asymptotejournal.com/poetry/ivan-palacios-ocana-little-humiliations/ "from Little Humilliations!") 
 
 ***ABLUCIONISTAS***  
 Martín Rangel - [Aquellos fueron los días/Those were the days](https://ablucionistas.com/aquellos-fueron-los-dias-those-were-the-days-%c2%b7eng-esp%c2%b7-martin-rangel/ "Aquellos fueron los días/Those were the days")
@@ -70,7 +70,9 @@ Verónica Díaz-Muñiz - [OJOXOJO](https://arts.ucdavis.edu/seasonal-event/ojoxo
 [Fear City Reemerges from Memory in the Form of a Wish](https://morrison.sunygeneseoenglish.org/2018/04/03/fear-city-reemerges-from-memory-in-the-form-of-a-wish/ "Fear City Reemerges from Memory in the Form of a Wish")
 
 ***Gandy Dancer***  
-[Interview with Ófeigur Sigurðsson and Lytton Smith](https://www.gandydancer.org/volume-7-interview/ "Interview with Ófeigur Sigurðsson and Lytton Smith")  
+[Interview with Ófeigur Sigurðsson and Lytton Smith](https://www.gandydancer.org/volume-7-interview/ "Interview with Ófeigur Sigurðsson and Lytton Smith")    
+&nbsp;   
+
 
 ##  
 ---

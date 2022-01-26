@@ -8,7 +8,7 @@ draft: false
 tags: ["Mexico", "Los-KGFC", "2010s"]
 stylesheet: "post.css"
 ---
-**[La Novia de Mi Hermano]**  
+## **[La Novia de Mi Hermano]**  
 
 Surprising her while she dyes her hair  
 is worse than walkng in when she's in the shower.  
@@ -28,5 +28,5 @@ that could murder an elephant.
 She walks between cars  
 as if the world had already ended  
 bidi bidi  
-and she were wandering the ruins with a shotgun  
+and she were stalking the ruins with a shotgun  
 bom bom.

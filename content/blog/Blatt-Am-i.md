@@ -7,9 +7,11 @@ keywords: ["Blatt"]
 draft: false
 tags: ["Argentina","Mariano-Blatt", "2000s"]
 stylesheet: "post.css"
----
+---  
+## **[¿soy importante]**  
+
 am i important  
-in somebody's life?  
+in somebody else's life?  
 does anyone smile  
 when they get an email with my name on it?  
   

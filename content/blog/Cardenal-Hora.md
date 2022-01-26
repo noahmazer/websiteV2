@@ -9,7 +9,7 @@ tags: ["Nicaragua","Ernesto-Cardenal", "1960s"]
 stylesheet: "post.css"
 ---
 
-**[Oficio Nocturno]**
+## **[Oficio Nocturno]**
 
 2 AM. It is the hour of the Midnight Office, and in shadow  
 the church seems full of demons.  
