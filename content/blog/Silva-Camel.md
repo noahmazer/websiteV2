@@ -14,6 +14,6 @@ Yesterday I saw a camel,
 drunk, carrying a book and cursing  
 pass by my window.  
 And I would've been shocked  
-if, after the camel, a man hadn't gone by  
+if, after the camel, a man hadn't passed by  
 all starched and happy  
 on his way to work.
