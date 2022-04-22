@@ -8,7 +8,7 @@ draft: false
 tags: ["El-Salvador","Roque-Dalton", "1960s"]
 stylesheet: "post.css"
 ---
-### **[Poesía y Militancia en América Latina]**
+## **[Poesía y Militancia en América Latina]**
 
 1.
 
