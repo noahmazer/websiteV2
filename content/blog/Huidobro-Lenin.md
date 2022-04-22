@@ -80,11 +80,11 @@ they all hear, we all hear
 that beating of your heart beyond death   
 that beating of your heart that brings you back to us and makes you present.   
 
-You could say, from death  
+You could say from death  
 "Stars, it was I who set men in motion."   
 You are the sound of the dawn when it wakes   
 you are the sound of a whole working world, of a whole singing world   
-you are the sound of a triumphant star, flying through space.   
+you are the sound of a triumphant star flying through space.   
 
 What language is that which beats against the rocks of the shore?   
 What fuel is that which ripples the infinite wheatfields?  
@@ -114,15 +114,15 @@ and the one who counts the stars sitting in the middle of the night
 the man who manufactures instruments and machines   
 the man who changes the way of things   
 and the ways of the Earth   
-the man who kneads bread and who has the smell of yeast in his eyes   
-the man who guides flocks from mountain to mountain    
-the man who guides caravans in deserts longer than his own memory.   
+the man who kneads bread and has the smell of yeast in his gaze   
+the man who leads flocks from mountain to mountain    
+the man who guides caravans through deserts longer than his own memory.   
 
 All of them hear  
 that beating of your heart beyond death.  
 The thinking man, the singing man  
 the man lonely like the peal of one o'clock bell  
-the crowds, slowly dying  
+the crowds that slowly die  
 all of them hear your heart beyond death  
 your heart ringing out within the tomb  
 with you death becomes greater than life  
