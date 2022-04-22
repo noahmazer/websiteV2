@@ -4,12 +4,12 @@ date: 2020-07-25
 slug: "efrain-huerta-transito"
 description: "TRÁNSITO by Efraín Huerta"
 keywords: ["Huerta"]
-draft: false
+draft: true
 tags: ["Mexico","Efrain-Huerta"]
 stylesheet: "post.css"
 ---
 
-**[TRÁNSITO]**
+## **[TRÁNSITO]**
 
 *Homeric, a truck  
 Went by  

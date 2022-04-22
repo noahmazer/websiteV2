@@ -8,7 +8,7 @@ draft: false
 tags: ["Uruguay","Eduardo-Galeano", "1970s"]
 stylesheet: "post.css"
 ---
-**[Sobre Roque Dalton]**
+## **[Sobre Roque Dalton]**
 
 Roque Dalton makes the stones laugh. He was the least solemn of all of us, and he pulled Death’s leg too. So I won’t go writing, now, a tear-dampened necrology in his memory.  
 
