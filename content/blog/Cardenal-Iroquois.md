@@ -34,48 +34,49 @@ the Nicaraguan sky fills with migrating birds
 And the lapwing of the circumpolar region  
 in the wild inlet, this "jungle"   
 who could have thought it  
-has just been in Central Park.   Or at the United Nations?   
+has just been in Central Park.  
+Or at the United Nations?   
 Deganawida took his canoe over the lakes…  
 From Niagara Falls to Illinois   
-the Pax Iroquoia   
-"We shall all eat the same beaver from the same plate".  
+the *Pax Iroquoia*   
+'We shall all eat the same beaver from the same plate'  
 Not only the absence of war     
 It was no     
 cold war, the Iroquois peace. They had    
-The same word for "Peace" and for "Law"   
+the same word for "Peace" and for "Law"   
 Peace was correct action.   
 Justice in action.   
 The practice of justice between individuals and nations.   
 Peace was good government.    
 
-This is strength, o Chiefs:   
-never to anger, to have no discords"     
-Kaianerekowa ("the Great Peace")  
+'This is strength, o Chiefs:   
+never to anger, to have no discords'     
+*Kaianerekowa* ("the Great Peace")  
 — Tarachiwagon, the Great Spirit, inspired it.     
 The League of Nations was called the "Great Peace"     
 and it was sacred.     
 The chiefs of the League its priests.     
 The hatchet buried so deep so deep     
-"that no one shall see it again in the future"     
+'that no one shall see it again in the future'     
 But the French gave cannons to the Susquehannocks.     
 All because of the fur trade...        
   
 Deganawida the Huron  
 who created the New Mind   
-(his name means "Master of Things")   
+(his name means 'Master of Things')   
 had visions of a new politics.  
 Hiawatha the Onondoga.   
 "He Who Combs"   
 (because he combed the snakes out of the minds of men)   
 was the poet.     
-He invented wampum -shell-writing-    
+He invented *wampum* –shell-writing–    
 and spun beautiful stories with shells.   
 Deganawida took his canoe over the lakes  
 looking for the smoke on the shores  
 the smoke     
 of the councils.     
 Always rowing towards the Aurora.     
-He Crossed Lake Ontario (Sganydaii-yo, "the Great Beautiful Lake")   
+He crossed Lake Ontario (*Sganydaii-yo*, "the Great Beautiful Lake")   
 and no smoke was rising.  
 The Iroquois were at war.   
 Their towns   
@@ -84,21 +85,21 @@ Kaianerekowa!!! he shouted.
 
 He carried the Mind of the Lord of Life.   
 The Good News of Peace   
-for the camps. Say to the chiefs   
+for the camps. Say unto the chiefs:   
 There will be no more war in the towns   
 the villages will have peace       
 
-The peoples should love each other, he said.  
+The peoples must love each other, he said.  
 A message in the form of the longhouse   
 where there are many fires     
 one for each family    
-and all together as one single family     
+and all together are as one single family     
 so too: a union of nations     
-each nation with their council fire     
+each nation with its council fire     
 and all together will be  
 a great Ganonsyoni (the Extended House)   
 
-And instead of killing, you will think   
+And instead of killing, you shall think   
 said Deganawida.  
 He came to the nation of the Flint (the Mohawk)  
 and camped an afternoon alongside the Mohawk river (New York)  
@@ -110,14 +111,14 @@ One afternoon beside the lake
 the poet Hiawatha was saddened.     
 He collected shells on the coast  
 and threaded them in three rows to show his sadness.  
-And lit his fire and said:  
+And lighting his fire said:  
 "When someone is saddened  
 "as I am now  
 "I will console him with these shell strings...   
 (Deganawida drew close to Hiawatha's smoke)  
-...the sacred rows of shells shall be words  
-and these words which are in my hands    
-shall be true   
+"...the sacred rows of shells shall be words  
+"and these words which are in my hands    
+"shall be true   
 He drew near and took up Hiawatha's shells     
 and joined them with others  
 and in this way  
@@ -137,9 +138,9 @@ the creation of that UN
 "in the dark of long ago and the abyss of time"   
 (1450?)   
 And the cormorant comes from Michigan...   
-Dusk. The jet above La Venada.   
-It stayed in the sky  
-its trail, chalk scratch  
+Dusk. The jet over La Venada.   
+It stayed up in the sky  
+its trail, chalk streak  
 long, looooooong  
 like the island of La Venada.   
 The lake air-color   
@@ -148,13 +149,13 @@ and Cosme's boat as if floating in the air.
 Shines.    
 Mirror of the Great Spirit!   
 There they go, there they go, flying in a V   
-black V V V V V V   
+black V V V V V Vs   
 the Canadian ducks  
 like squadrons of planes   
 but they go switching their leader   
 and planes don't change formation.   
 They'll be coming from Lake Ontario. They'll return  
-to Lake Ontario the V's point   
+to Lake Ontario, the V's point   
 every so often a new duck, but always   
 northward like a compass needle   
 carrying spring!  
@@ -177,74 +178,74 @@ And on closing the First Session of the United Nations:
 “My work is done. I   
 "will enter the earth. From there   
 "I will hear how men conduct themselves  
-"in the Longhouse I gave them  
+"in the Longhouse I gave them.  
 "If one day the Great peace fails  
 "If one day it fails  
-"pronounce my name in the depth of the forest   
+"pronounce my name in the depths of the forest.   
 "In solitude. And I shall return.   
 They buried the hatchets the arrows  
-We have cleaned the earth   
-of these things made by a Bad Mind"   
-And after the dream of a greater adventure     
-the reunion around a fire     
-of all the nations of the earth     
-the nations of "all the earth's forests"     
+'We have cleaned the earth   
+of these things made by a Bad Mind'   
+And later, the dream of a greater adventure     
+the meeting around a fire     
+of *all* the nations of the earth     
+the nations of 'all the forests of the earth'     
 
 A beaver on the plate. With no knife  
 So that no one can be hurt  
-there will be no spilling of blood   
+so that there will be no spilling of blood   
 Later, for many years, the hope   
 that the French would join the League.     
-"If you love our souls as you say,     
+'If you love our souls as you say,     
 love also our bodies.     
-We shall all be one single nation."   
+We shall all be one single nation.''   
 So that their good intentions would show     
 they gave themselves up unarmed to the French.     
 With women and children and elders. NOT     
 as hostages. But     
-"to make all the earth one single nation"     
-and the march towards Quebec -weighed down with shells-     
+'to make all the earth one single nation'     
+and the march towards Quebec –weighed down with shells–     
 but on the road the Algonquians attacked them.     
 the French traded with the Huron...     
 Dialogue with the Huron was blocked.  
 The treaties with the Huron, annulled forever.  
 
 Economic reasons... that fur trade...   
-Because the Iroquois sad: "one single territory"     
-"Let us make one single people and one single territory"    
+Because the Iroquois sad: 'one single territory     
+'Let us make one single people and one single territory'    
 and the French traded with the Hurons.     
 The French gave cannons to the Susquehannocks.     
-We shall suppress the flows of the river     
+*We shall stem the flows of the river*     
 And they sent 3 peace canoes to the French. 
 
 Those canoes, stood up before the fort  
- "The earth shall be beautiful-- they cried to them  
- the river shall have no waves   
+ "The earth shall be beautiful –they cried to them  
+ the river will have no waves   
 we shall live everywhere without fear"   
 and that night around the fire with the French  
  around the symbol fire:   
-"Our faces shall be stuck to yours  
-so much that we too will have beards   
-and we shall be one single face"   
+'Our faces shall be stuck to yours  
+so closely that we too will have beards   
+and we shall be one single face'   
 And the Nation of the Thirteen Fires?  
  Neither did the Nation of the Thirteen Fires  
  enter into the League. 
 Ah   
 there went the ah-wek-ah-ah.   
-It rowed with its wings folded.   
+It paddled with its wings folded.   
 When the Indians of the Great Lakes left   
 it opened its wings and flew   
 and did not return.
 
 With the wind comes radio, from the island of la Saba.   
-The la Saba radio. La saba (La carriba. says don Rafaíl).   
+The la Saba radio. La Saba (La *carriba*. says don Rafaíl).   
 Cormorants in a line with their wings open   
 like old shirts on a wire.   
 They wet their tails before flying.   
 Here and on Lake Michigan.   
-Between the buoys of Lake Michigan.   
+Among the buoys of Lake Michigan.   
 The lakes had souls, for the Onondaga.   
-The laws, spoken in wampum.
+The laws, *spoken* in wampum.
 And the treaties in wampum.   
 They never broke a wampum  
  although treaty after treaty they lost all their lands.   
@@ -254,7 +255,7 @@ flying, skimming the water
 Tanagers from Ohio. From Kentucky.  
  Like Merton's letter this Tuesday.   
 And Kennedy Airport so close to Solentiname.  
-A radio on the island of an Indian Caribbean.  
+A radio on the island of a Carib Indian woman.  
 (La Saba brought me oranges)
 
 We shall all eat, from the same plate,   
@@ -266,19 +267,23 @@ redder now as the fire climbs. ah uuuum.
 children too and dogs jumping   
 young women with shells, with   
 wampum. Ah uuuuum. The fire goes out.   
-They left. And they were never seen again in history.  
+They went away. And they were never seen again in history.  
 But after the traffic and neon ads in Syracuse   
 and passing the highways on the outskirts, motels  
 gas stations and more neon, HAM & EGGS in the night  
  behind the big factories, you come to the reservation   
 a little valley, where that Iroquois said   
-       next to the old Ford that doesn't run   
-"we shall rise up again   
-and the world shall listen to us."
+       alongside the old Ford that doesn't run   
+'we will rise up again   
+and the world will hear us.'
 
-A man leapt into the middle of the street with his arms open:  
+The good News of Peace for the camps  
+the Good News of Peace (not of the AP)  
+The dead on Avenida Roosevelt. The AP present  
+and said nothing  
+A man leapt into the middle of the street with his arms outspread:  
 STOP!!! 
-and they riddled him.  
+and they shot him down.  
 A different Somoza will be president.  
 You told us to call out to you in our solitude.  
 And I’m here in Solentiname!  
@@ -296,9 +301,9 @@ I shall console you with my wampum, o my old
 Underwood.  
 With shells. With these keys.  
 Not teletypes.  
-And these words in my hands shall be true.  
-It is the hour of the mosquitoes on Solentiname.  
-And of the sad bird that sings Jodido.  
+And these words in my hands will be true.  
+It's the hour of the mosquitoes on Solentiname.  
+And of the sad bird that sings *Jodido*.  
 The last cormorant has gone.  
 Will the lights be on yet  
 at the United Nations?  
