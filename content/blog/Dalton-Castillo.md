@@ -1,7 +1,7 @@
 ---
 title: "Roque Dalton - Otto René Castillo: His Example and Our Responsibility"
 date: 2022-04-25
-slug: "roqu-dalton-otto-rene-castillo"
+slug: "roque-dalton-otto-rene-castillo"
 description: "Otto René Castillo: His Example and Our Responsibility by Roque Dalton"
 keywords: ["Dalton"]
 draft: false
