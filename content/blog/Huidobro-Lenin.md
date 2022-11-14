@@ -1,11 +1,11 @@
 ---
-title: "Vincente Huidobro - Elegy for the Death of Lenin"
+title: "Vicente Huidobro - Elegy for the Death of Lenin"
 date: 2022-04-22
 slug: "elegia-para-la-muerte-de-lenin"
-description: "Elegia para la muerte de Lenin by Vincente Huidobro"
+description: "Elegia para la muerte de Lenin by Vicente Huidobro"
 keywords: ["Huidobro"]
 draft: false
-tags: ["Chile","Vincente-Huidobro", "1920s"]
+tags: ["Chile","Vicente-Huidobro", "1920s"]
 stylesheet: "post.css"
 ---
 ## **[Elegia para la muerte de Lenin]**
