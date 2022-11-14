@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://noahmazer.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>1970s</title>
       <link>https://noahmazer.com/tags/1970s/</link>
-      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://noahmazer.com/tags/1970s/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>El-Salvador</title>
       <link>https://noahmazer.com/tags/el-salvador/</link>
-      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://noahmazer.com/tags/el-salvador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lil-Milagro-Ramirez</title>
+      <link>https://noahmazer.com/tags/lil-milagro-ramirez/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.com/tags/lil-milagro-ramirez/</guid>
       <description></description>
     </item>
     
@@ -58,11 +67,11 @@
     </item>
     
     <item>
-      <title>Vincente-Huidobro</title>
-      <link>https://noahmazer.com/tags/vincente-huidobro/</link>
+      <title>Vicente-Huidobro</title>
+      <link>https://noahmazer.com/tags/vicente-huidobro/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://noahmazer.com/tags/vincente-huidobro/</guid>
+      <guid>https://noahmazer.com/tags/vicente-huidobro/</guid>
       <description></description>
     </item>
     

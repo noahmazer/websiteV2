@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://noahmazer.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lil Milagro Ramírez - That name of mine</title>
+      <link>https://noahmazer.com/blog/lil-milagro-ramirez-that-name-of-mine/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://noahmazer.com/blog/lil-milagro-ramirez-that-name-of-mine/</guid>
+      <description>[Mi nombre aquel] That name of mine pronounce it not even under your breath wait i&amp;rsquo;ll be me again when death comes or victory does</description>
+    </item>
     
     <item>
       <title>Roque Dalton - Otto René Castillo: His Example and Our Responsibility</title>
@@ -23,7 +32,7 @@ Otto René Castillo was born in Quetzaltenango, Guatemala, in 1936. The overthro
     </item>
     
     <item>
-      <title>Vincente Huidobro - Elegy for the Death of Lenin</title>
+      <title>Vicente Huidobro - Elegy for the Death of Lenin</title>
       <link>https://noahmazer.com/blog/elegia-para-la-muerte-de-lenin/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
