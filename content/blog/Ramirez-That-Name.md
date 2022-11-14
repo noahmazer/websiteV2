@@ -10,10 +10,10 @@ stylesheet: "post.css"
 ---  
 ## **[Mi nombre aquel]**  
 
-That name of mine
-pronounce it not even 
-under your breath
-wait
-i'll be me again
-when death comes
-or victory does
+That name of mine  
+pronounce it not even  
+under your breath  
+wait  
+i'll be me again  
+when death comes  
+or victory does  
